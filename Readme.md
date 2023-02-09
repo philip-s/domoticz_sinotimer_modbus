@@ -17,7 +17,7 @@ This plugin requires python modules: <br>
 - pyserial -> https://pythonhosted.org/pyserial/ <br>
 - minimalmodbus -> http://minimalmodbus.readthedocs.io<br>
 
-NOTE: The above modules stopped working with Python 3.9 in Raspberry Rasbian bullseye (november 2022). Keep Python 3.7. !
+NOTE: The above modules stopped working with Python 3.9 in Rasbian/Armbian Bullseye (november 2022). Keep Python 3.7. !
 
 For Bullseye and newer raspbians: start from installing python 3.7 instead of 3.9: https://www.linuxcapable.com/how-to-install-python-3-7-on-debian-11-bullseye/ <br>
 Please install both python 3.7 and python PIP 3.7 from the link above. <br>
